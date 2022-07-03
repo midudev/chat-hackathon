@@ -1,38 +1,28 @@
-# create-svelte
+** HACKATHON JULIO 2022 - TWILIO + CHAT SECRETO :rocket:**
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+*- 🗓️ Fecha límite -> 20 de julio en Twitch.
+- 📹 Directo del 1 de julio con explicaciones -> https://www.twitch.tv/videos/1519558242
+- 👨‍💻 Repositorio -> https://github.com/midudev/chat-hackathon
 
-## Creating a project
+**- 🎁 PREMIOS para los 3 primeros:**
 
-If you're seeing this, you've probably already done this step. Congrats!
+[1] Keychron K3 Ultra-slim Wireless Mechanical Keyboard - Version 2 (Si no se puede enviar, se pagará lo que cueste el teclado con PayPal).
+[2] 40€ en Redbubble.
+[3] 20€ en Redbubble.
 
-```bash
-# create a new project in the current directory
-npm init svelte
+**- ⚠️ Requisitos:**
 
-# create a new project in my-app
-npm init svelte my-app
-```
+**[1] Registrarse en Twilio -> https://www.twilio.com/referral/xdppiQ :smiling_face_with_3_hearts:**
+[2] Crea un chat secreto dónde sólo la gente que tú quieras pueda hablar **usando los servicios de Twilio Conversations.**
+[3] La app/web debe estar **desplegada** para que la podamos ver.
+[4] **El repositorio de código debe ser abierto** y el **README** debe indicar que participa en la hackathon.
+[5] :date: Enviar el repositorio + deploy en este canal, en este hilo: https://discord.com/channels/741237973663612969/992476955792375928/992478015164518520
 
-## Developing
+**- 👀 Consideraciones:**
+- Se tendrá en cuenta: ejecución del código (estructura...), look and feel (experiencia del usuario, diseño...), no puedes pillar una plantilla CSS de una aplicación que ya exista, que sea responsive y que funcione para móvil (mobile-first).
+- Se puede hacer con lo que quieras: Vanilla, Angular, React, Vue, Svelte, Nextjs, Nuxtjs, Remix... 
+- Se puede hacer equipo :partying_face::partying_face:.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- 💅 Te puedes inspirar en el diseño: https://dribbble.com/
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+[🐙 Muchos más servicios disponibles en https://www.twilio.com/referral/xdppiQ :squid:]
