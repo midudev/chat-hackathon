@@ -1,16 +1,16 @@
-# HACKATHON JULIO 2022 - TWILIO + CHAT SECRETO :rocket:**
+# HACKATHON JULIO 2022 - TWILIO + CHAT SECRETO :rocket:
 
 - **🗓️ Fecha límite -> 20 de julio en Twitch.**
 - 📹 Directo del 1 de julio con explicaciones -> https://www.twitch.tv/videos/1519558242
 - 👨‍💻 Repositorio -> https://github.com/midudev/chat-hackathon
 
-## - 🎁 PREMIOS para los 3 primeros:**
+## - 🎁 PREMIOS para los 3 primeros:
 
 - [1] Keychron K3 Ultra-slim Wireless Mechanical Keyboard - Version 2 (Si no se puede enviar, se pagará lo que cueste el teclado con PayPal).
 - [2] 40€ en Redbubble.
 - [3] 20€ en Redbubble.
 
-## - ⚠️ Requisitos:**
+## - ⚠️ Requisitos:
 
 - **[1] Registrarse en Twilio -> https://www.twilio.com/referral/xdppiQ :smiling_face_with_3_hearts:**
 - [2] Crea un chat secreto dónde sólo la gente que tú quieras pueda hablar **usando los servicios de Twilio Conversations.**
