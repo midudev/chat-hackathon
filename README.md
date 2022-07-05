@@ -1,8 +1,12 @@
-# HACKATHON JULIO 2022 - TWILIO + CHAT SECRETO :rocket:
+<div align="center">
 
-- **🗓️ Fecha límite -> 20 de julio en Twitch.**
-- 📹 Directo del 1 de julio con explicaciones -> https://www.twitch.tv/videos/1519558242
-- 👨‍💻 Repositorio -> https://github.com/midudev/chat-hackathon
+  <img width="200" src="https://user-images.githubusercontent.com/1561955/177315611-490d347e-1201-4aff-b09c-d2ea9f453173.png" /><br />
+  <strong>HACKATHON JULIO 2022 - TWILIO + CHAT SECRETO 🚀</strong>
+
+**🗓️ Fecha límite -> 20 de julio en Twitch.**<br />
+📹 Directo del 1 de julio con explicaciones -> https://www.twitch.tv/videos/1519558242<br />
+
+</div>
 
 ## - 🎁 PREMIOS para los 3 primeros:
 
@@ -12,7 +16,7 @@
 
 ## - ⚠️ Requisitos:
 
-- **[1] Registrarse en Twilio -> https://www.twilio.com/referral/xdppiQ :smiling_face_with_3_hearts:**
+- **[1] Registrarse en Twilio -> https://www.twilio.com/referral/xdppiQ 🥰 **
 - [2] Crea un chat secreto dónde sólo la gente que tú quieras pueda hablar **usando los servicios de Twilio Conversations.**
 - [3] La app/web debe estar **desplegada** para que la podamos ver.
 - [4] **El repositorio de código debe ser abierto** y el **README** debe indicar que participa en la hackathon.
